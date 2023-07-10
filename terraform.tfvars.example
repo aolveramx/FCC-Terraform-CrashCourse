@@ -1,0 +1,4 @@
+subnet_prefix = "0.0.0.0/0"
+region        = "us-XXXX"
+access_key    = "XXXX"
+secret_key    = "XXXX"
